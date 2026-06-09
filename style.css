@@ -64,3 +64,12 @@ footer{
     text-align:center;
     padding:20px;
 }
+
+.gambar-artikel{
+    width:100%;
+    max-width:900px;
+    display:block;
+    margin:20px auto;
+    border-radius:10px;
+    box-shadow:0 4px 10px rgba(0,0,0,0.2);
+}
